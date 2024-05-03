@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>structures on Tangled Stories</title>
+    <link>https://example.org/tags/structures/</link>
+    <description>Recent content in structures on Tangled Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2023 11:34:25 +1000</lastBuildDate><atom:link href="https://example.org/tags/structures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>how social media platforms are programmed to support digital harassment</title>
+      <link>https://example.org/posts/digital-harrassment/</link>
+      <pubDate>Sat, 07 Oct 2023 11:34:25 +1000</pubDate>
+      
+      <guid>https://example.org/posts/digital-harrassment/</guid>
+      <description>a brief literature review</description>
+    </item>
+    
+  </channel>
+</rss>

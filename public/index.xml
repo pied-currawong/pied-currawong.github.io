@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on Tangled Stories</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Welcome! on Tangled Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Oct 2023 11:34:11 +1000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>how social media platforms are programmed to support digital harassment</title>
+      <link>https://example.org/posts/digital-harrassment/</link>
+      <pubDate>Sat, 07 Oct 2023 11:34:25 +1000</pubDate>
+      
+      <guid>https://example.org/posts/digital-harrassment/</guid>
+      <description>a brief literature review</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>My name is Sam.
+Freire&amp;rsquo;s model of critical pedagogy
+praxis
+pedagogy of the oppressed
+banking concept of education
+https://radicalpedagogyinstitute.com/radical-pedagogy-and-re-humanizing-pk-12-education/</description>
+    </item>
+    
+    <item>
+      <title>Stories of technology</title>
+      <link>https://example.org/posts/technology-stories/</link>
+      <pubDate>Thu, 05 Oct 2023 11:34:25 +1000</pubDate>
+      
+      <guid>https://example.org/posts/technology-stories/</guid>
+      <description>I propose a shift in our understanding of technology</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 04 Oct 2023 11:34:25 +1000</pubDate>
+      
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>An introductory post</description>
+    </item>
+    
+  </channel>
+</rss>
