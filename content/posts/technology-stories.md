@@ -5,7 +5,8 @@ draft = 'false'
 author = 'sam'
 tags = ['technology', 'stories']
 categories = ['essay']
-summary = 'I propose a shift in our understanding of technology'
+description = 'I propose a shift in our understanding of technology'
+images = ['/img/dragonfly.JPG']
 
 +++
 
