@@ -9,6 +9,11 @@ summary = 'I propose a shift in our understanding of technology'
 
 +++
 
+{{< figure
+  src="/img/dragonfly.JPG"
+  caption="Dragonfly"
+  attr=" -- Photo by me"
+>}}
 
 >If you want to take control of your life or work towards some kind of sustainable change in the world, you need to harness the power of story - Tyson Yunkaporta, Sand Talk, p. 129
 

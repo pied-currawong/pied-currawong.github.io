@@ -230,6 +230,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
+  appearance: button;
   -webkit-appearance: button;
 }
 
@@ -258,6 +259,7 @@ input[type="date"],
 input[type="time"],
 input[type="datetime-local"],
 input[type="month"] {
+  appearance: listbox;
   -webkit-appearance: listbox;
 }
 
@@ -296,6 +298,7 @@ progress {
 
 [type="search"] {
   outline-offset: -2px;
+  appearance: none;
   -webkit-appearance: none;
 }
 
@@ -312,7 +315,7 @@ output {
   display: inline-block;
 }
 
-summary {
+description {
   display: list-item;
   cursor: pointer;
 }
